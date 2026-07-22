@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-learning",
+  "type": "module",
+  "private": true,
+  "description": "Nuxt学习项目 · 匿名大学校园二手市集",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.5.0",
+    "vue": "^3.5.40",
+    "vue-router": "^5.2.0"
+  }
+}
